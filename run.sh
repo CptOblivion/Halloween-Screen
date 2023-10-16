@@ -2,6 +2,4 @@
 
 mkdir build
 
-go build -o build/halloween-screen
-
-./build/halloween-screen
+echo "The rest of this script not yet implemented until I learn Rust"
